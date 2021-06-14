@@ -1,0 +1,9 @@
+temp/*
+edraxgo
+hyperproofs-go
+gipa-go
+keygen/
+pkvk*/
+logs*.json*
+*result*.csv*
+ck-*/
